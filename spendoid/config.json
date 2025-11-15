@@ -1,7 +1,6 @@
 {
   "versions": {
     "android": "1.0.0",
-    "ios": "1.0.0",
-    "forceUpdate": true
+    "ios": "1.0.0"
   }
 }
